@@ -1,4 +1,3 @@
-# ledger-web-wallet-btc
+# ledger-web-pay-eth-demo
 
-App that enable wallet connect for your ledger
-Should be running inside https://github.com/machard/ledger-web
+Ledger pay widget demo
